@@ -1,0 +1,38 @@
+[
+    {
+        "imaging": "II_shoulder_3#102",
+        "product": "default",
+        "image_share_path": "ShareMem_Name_1_1",
+        "image_w": 4096,
+        "image_h": 3000,
+        "image_c": 1,
+        "image_size": 12288000
+    },
+    {
+        "imaging": "II_shoulder_3#105",
+        "product": "coldfack",
+        "image_share_path": "ShareMem_Name_1_1",
+        "image_w": 4096,
+        "image_h": 3000,
+        "image_c": 1,
+        "image_size": 12288000
+    },
+    {
+        "imaging": "II_shoulder_3#35",
+        "product": "ah",
+        "image_share_path": "ShareMem_Name_1_1",
+        "image_w": 4096,
+        "image_h": 3000,
+        "image_c": 1,
+        "image_size": 12288000
+    },
+    {
+        "imaging": "II_shoulder_3#11",
+        "product": "fjh",
+        "image_share_path": "ShareMem_Name_1_1",
+        "image_w": 4096,
+        "image_h": 3000,
+        "image_c": 1,
+        "image_size": 12288000
+    }
+]
